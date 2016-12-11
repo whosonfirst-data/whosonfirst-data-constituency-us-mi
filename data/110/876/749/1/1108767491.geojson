@@ -9,7 +9,7 @@
     "geom:bbox":"-85.3384,44.1603,-83.88318,44.859608",
     "geom:latitude":44.474358,
     "geom:longitude":-84.70649,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":7158754082.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 103",
     "uscensus:sldlst":"103",
     "uscensus:statefp":"26",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688599
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487062,
     "wof:geomhash":"d32c750667031cf2428fefa662ded279",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688599
+        }
+    ],
     "wof:id":1108767491,
     "wof:lastmodified":1481487062,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688599,
     "wof:repo":"whosonfirst-data-constituency-us-mi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

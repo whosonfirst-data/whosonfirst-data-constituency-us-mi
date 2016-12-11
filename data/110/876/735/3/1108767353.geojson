@@ -9,7 +9,7 @@
     "geom:bbox":"-84.02839,42.4239,-83.66481,42.60626",
     "geom:latitude":42.505826,
     "geom:longitude":-83.825024,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":442963285.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 42",
     "uscensus:sldlst":"042",
     "uscensus:statefp":"26",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688599
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487051,
     "wof:geomhash":"2467a2bf3ada4e78b15f14ac102a845f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688599
+        }
+    ],
     "wof:id":1108767353,
     "wof:lastmodified":1481487051,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688599,
     "wof:repo":"whosonfirst-data-constituency-us-mi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

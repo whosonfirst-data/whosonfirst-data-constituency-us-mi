@@ -9,7 +9,7 @@
     "geom:bbox":"-90.41839,45.07643,-85.85461,48.30606",
     "geom:latitude":46.801527,
     "geom:longitude":-87.882068,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":33406290018.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 38",
     "uscensus:sldust":"038",
     "uscensus:statefp":"26",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688599
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487076,
     "wof:geomhash":"68dc2914e7b5306f18d756bc9fabd9a1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688599
+        }
+    ],
     "wof:id":1108767595,
     "wof:lastmodified":1481487076,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688599,
     "wof:repo":"whosonfirst-data-constituency-us-mi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -9,7 +9,7 @@
     "geom:bbox":"-82.87197,42.45109,-82.70617,42.68087",
     "geom:latitude":42.534274,
     "geom:longitude":-82.782709,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":0.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate Districts not defined",
     "uscensus:sldust":"ZZZ",
     "uscensus:statefp":"26",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688599
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487076,
     "wof:geomhash":"9a5bf9d13514f945db8a120ae4dae457",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688599
+        }
+    ],
     "wof:id":1108767597,
     "wof:lastmodified":1481487076,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688599,
     "wof:repo":"whosonfirst-data-constituency-us-mi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

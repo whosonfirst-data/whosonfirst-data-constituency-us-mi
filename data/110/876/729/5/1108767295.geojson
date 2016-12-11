@@ -9,7 +9,7 @@
     "geom:bbox":"-83.43004,42.26571,-83.309,42.35426",
     "geom:latitude":42.306449,
     "geom:longitude":-83.386552,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":62919273.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 16",
     "uscensus:sldlst":"016",
     "uscensus:statefp":"26",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688599
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487046,
     "wof:geomhash":"5f4f531cdc37053895f019159438f50d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688599
+        }
+    ],
     "wof:id":1108767295,
     "wof:lastmodified":1481487046,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688599,
     "wof:repo":"whosonfirst-data-constituency-us-mi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

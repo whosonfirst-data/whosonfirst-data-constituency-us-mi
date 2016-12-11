@@ -9,7 +9,7 @@
     "geom:bbox":"-83.86917,42.94228,-83.66088,43.134327",
     "geom:latitude":43.043457,
     "geom:longitude":-83.763756,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":186825259.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 49",
     "uscensus:sldlst":"049",
     "uscensus:statefp":"26",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688599
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487052,
     "wof:geomhash":"e3ed59847a0c31932cd53971df52af88",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688599
+        }
+    ],
     "wof:id":1108767369,
     "wof:lastmodified":1481487052,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688599,
     "wof:repo":"whosonfirst-data-constituency-us-mi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
